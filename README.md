@@ -10,6 +10,7 @@
 
 ## Screenshot Aplikasi
 <p align="center">
-  <img src="http://i66.tinypic.com/280qjad.jpg" width="350"/><br>
-  <img src="http://i68.tinypic.com/35k1qtt.jpg" width="350"/>
+  <img src="http://i68.tinypic.com/s4uhsi.jpg" width="350"/>
+  <img src="http://i64.tinypic.com/29l1h74.jpg" width="350"/>
 </p>
+
